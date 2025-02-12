@@ -1,2 +1,1 @@
-# Muscle-Legend-Paid-Script
-Muscle/Legend/Paid-Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOOF-sys/Roblox-Shit/main/MuscleLegends_1.lua"))()
